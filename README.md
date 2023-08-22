@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justinsidius
 - 👀 I’m interested in AWS Cloud Architecture 
-- 🌱 I’m currently learning SAA-003 course material 
+- 🌱 I’m currently learning SAA-C03 course material 
 - 💞️ I’m looking to collaborate on AWS project integration and migration 
 - 📫 How to reach me ...
 
